@@ -1,0 +1,32 @@
+{
+  "name": "test-to-r2",
+  "version": "1.0.0",
+  "description": "test-to-r2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prisma": "npx prisma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdmilsonR0MANO/test-to-r2.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "-M",
+    "main"
+  ],
+  "author": "git push -u origin main",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdmilsonR0MANO/test-to-r2/issues"
+  },
+  "homepage": "https://github.com/EdmilsonR0MANO/test-to-r2#readme",
+  "dependencies": {
+    "fastify": "^4.25.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.8.1"
+  }
+}
